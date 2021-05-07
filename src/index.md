@@ -25,8 +25,8 @@ The comfort of your own home
 [More...](programme.md)
 
 ## Registration and enquiries
-* Someone [.@uea.ac.uk](mailto:.@uea.ac.uk)
-* Jenny [jennifer.graham@cefas.co.uk](mailto:jennifer.graham@cefas.co.uk)
+* Beth (UEA, Aries) [e.siddle@uea.ac.uk](mailto:e.siddle@uea.ac.uk)
+* Jenny (Cefas) [jennifer.graham@cefas.co.uk](mailto:jennifer.graham@cefas.co.uk)
 
 ## Unable to attend?
 

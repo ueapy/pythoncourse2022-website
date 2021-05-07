@@ -1,6 +1,6 @@
-# Cefas and EnvEast Python course 2020
+# Cefas and EnvEast Python course 2021
 
-https://ueapy.github.io/pythoncourse2020
+https://ueapy.github.io/pythoncourse2021
 
 
 Steps to generate pages using mkdocs:
