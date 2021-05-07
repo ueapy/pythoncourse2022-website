@@ -1,4 +1,4 @@
-# Cefas and EnvEast Python course 2021
+# Website for Cefas and Aries Python course 2021
 
 https://ueapy.github.io/pythoncourse2021
 
