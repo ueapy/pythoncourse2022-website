@@ -5,7 +5,7 @@ theme:
 markdown_extensions:
   - admonition
 
-site_url: https://ueapy.github.io/pythoncourse2021
+site_url: https://ueapy.github.io/pythoncourse2021-website
 repo_url: https://github.com/ueapy/pythoncourse2021-website
 site_author: Tiago Silva (after Denis Sergeev)
 docs_dir: src
