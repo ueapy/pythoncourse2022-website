@@ -4,7 +4,7 @@ For this workshop you need to install Python on your laptop!
 
 Follow the instructions below to set up your Python environment. The only requirement is that you have to do this **before** the course! Feel free to contact [Tiago](mailto:tiago.silva@cefas.co.uk) if you have any problems with the installation (but better google them first!)
 
-Note: **the course is designed in Python 3.8**, but for most cases will work in Python 3.6 and 3.7 too.
+Note: **the course is designed in Python 3.8**. Even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
 
 ## 1. Install Python distribution using Anaconda
 1.1. [Download Anaconda with Python 3.7 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, **do not** install Python from the Cefas Software Centre.
@@ -85,6 +85,6 @@ jupyter notebook
 ```
 in the command line. This should open Jupyter Notebook in your browser. 
 
-## Still having troubles?
-If you are unable to install Anaconda Python 3.7 on your PC, contact the [course organisers](index.md#registration-and-enquiries).
-Another option: launch the course in a cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2021-materials)
+## Still having trouble?
+If you are unable to install Anaconda Python on your PC, contact the [course organisers](index.md#registration-and-enquiries).
+Another option: launch the course in the cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2021-materials). This requires no installation but progress and modifications won't be saved.

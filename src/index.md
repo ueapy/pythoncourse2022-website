@@ -20,7 +20,7 @@ The comfort of your own home
 * Plotting data on maps
 * Working with environmental sciences data formats
 
-[More...](programme.md)
+[//]: # ( [More...](programme.md) )
 
 ## Registration and enquiries
 * Beth (UEA, Aries) [e.siddle@uea.ac.uk](mailto:e.siddle@uea.ac.uk)
