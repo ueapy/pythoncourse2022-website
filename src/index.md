@@ -7,8 +7,6 @@
 * It will start with basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.
 * No previous Python experience is required!
 
-*[Download flyer in PDF](flyer/flyer.pdf)*
-
 ## When?
 7 - 11 June 2021
 
