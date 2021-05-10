@@ -46,8 +46,8 @@ Tuesday 8th of June 2021
 ## Day 3 -  Arrays and intro to plotting
 Wenesday 9th of June 2021
 
-| Topic                     | Leader | Type     | Time | Duration |
-|---------------------------|--------|----------|-------|-------|----------|
+| Topic                     | Leader | Type     | Time  | Duration |
+|---------------------------|--------|----------|-------|----------|
 | Numpy: basics             |        | Lecture  |  9:00 |  1:00    |
 | Numpy: explore arrays     |        | Exercise | 10:00 |  0:30    |
 | *Break*                   |        |          | 10:30 |  0:15    |
@@ -57,11 +57,11 @@ Wenesday 9th of June 2021
 | Guided practice           |        | Exercise | 14:00 |  1:00    |
 | *End*                     |        |          | 15:00 |          |
 
-## Day 4 -  Further plotting and data analysis
+## Day 4 -  Further plotting and tables
 Thursday 10th of June 2021
-| Topic                     | Leader | Type     | Time | Duration |
 
-|---------------------------|--------|----------|-------|-------|----------|
+| Topic                     | Leader | Type     | Time | Duration |
+|---------------------------|--------|----------|------|----------|
 | Plotting exercise         |       | Exercise |  9:00 | 01:00    |
 |Datetime                   |       | Lecture  | 10:00 | 00:45    |
 | Introduction to pandas    |       | Lecture  | 10:00 | 00:30    |
@@ -70,17 +70,15 @@ Thursday 10th of June 2021
 | Plotting with Seaborn     |       | Lecture  | 12:15 | 00:45    |
 | *End*                     |       |          | 13:00 |          |
 
-## Day 5 - netcdf
+## Day 5 - Maps and array datasets
 Friday 11th of June 2021
 
 | Topic                     | Leader | Type     | Time | Duration |
-|---------------------------|--------|----------|-------|-------|----------|
+|---------------------------|--------|----------|-------|----------|
 | Introduction to cartopy   |        | Lecture  |  9:00 | 01:00    |
 | *Break*                   |        |          | 10:00 | 00:15    |
 | Xarray and netCDF         |        | Lecture  | 10:15 | 01:30    |
 | *Break*                   |        |          | 11:45 | 00:15    |
 | Bring-your-data project   | All    | Exercise | 12:00 | 01:00    |
 | *End*                     |        |          | 13:00 |          |
-
-
 

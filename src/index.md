@@ -13,6 +13,12 @@
 ## Where?
 The comfort of your own home
 
+## Who?
+The course is free for 
+* Aries DTP students
+* Cefas staff and CASE students
+The course is open to all UEA students and staff but there is a fee of 35 GBP. See contact below for enquiries.
+
 ## Topics
 * Python basics and programming environment
 * Core scientific libraries: numpy, scipy, pandas
@@ -20,7 +26,7 @@ The comfort of your own home
 * Plotting data on maps
 * Working with environmental sciences data formats
 
-[//]: # ( [More...](programme.md) )
+[Programme...](programme.md)
 
 ## Registration and enquiries
 * Beth (UEA, Aries) [e.siddle@uea.ac.uk](mailto:e.siddle@uea.ac.uk)
@@ -29,7 +35,7 @@ The comfort of your own home
 ## Unable to attend?
 
 ###Cefas
-The PyFAS group meets at least one a month. Contact Ralph Brayne to receive the invites.
+The PyFAS group meets occasionally. Contact Ralph Brayne to receive the invites.
 
 ###UEA
 The UEA Python group meets occasionally. Check the archives of previous sessions here: [https://ueapy.github.io](https://ueapy.github.io/). Or join our [Slack workspace](https://uea-python.slack.com/) to ask questions and take part in weekly coding drop ins.

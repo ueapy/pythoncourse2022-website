@@ -7,7 +7,7 @@ Follow the instructions below to set up your Python environment. The only requir
 Note: **the course is designed in Python 3.8**. Even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
 
 ## 1. Install Python distribution using Anaconda
-1.1. [Download Anaconda with Python 3.7 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, **do not** install Python from the Cefas Software Centre.
+1.1. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, **do not** install Python from the Cefas Software Centre.
 
 1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me" when prompted.
 
@@ -65,6 +65,7 @@ cd C:\Users\myname\Downloads\pythoncourse2021-materials\
 conda env create -f environment.yml
 ```
 This will take some time depending on your Internet speed (<15 minutes).
+If you get stuck try typying return or creating the environment again.
 
 ## 4. Activate the environment
 ### Linux / Mac
@@ -78,7 +79,14 @@ Still in the command line (Anaconda prompt), type:
 activate course2021
 ```
 
-## 5. Launch Jupyter
+## 5. Test the installation (essential!)
+From the terminal type:
+```
+python -c "import seaborn"
+```
+If you don't get any errors then your installation was sucessful.
+
+## 6. Launch Jupyter
 Once the environment is activated, type 
 ```
 jupyter notebook
