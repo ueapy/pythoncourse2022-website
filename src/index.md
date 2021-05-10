@@ -15,8 +15,10 @@ The comfort of your own home
 
 ## Who?
 The course is free for 
+
 * Aries DTP students
 * Cefas staff and CASE students
+
 The course is open to all UEA students and staff but there is a fee of 35 GBP. See contact below for enquiries.
 
 ## Topics
@@ -29,6 +31,11 @@ The course is open to all UEA students and staff but there is a fee of 35 GBP. S
 [Programme...](programme.md)
 
 ## Registration and enquiries
+
+[Eventbrite registration](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2021-tickets-153511140955)
+
+If you have queries please contact:
+
 * Beth (UEA, Aries) [e.siddle@uea.ac.uk](mailto:e.siddle@uea.ac.uk)
 * Jenny (Cefas) [jennifer.graham@cefas.co.uk](mailto:jennifer.graham@cefas.co.uk)
 
