@@ -392,8 +392,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#5-launch-jupyter" class="md-nav__link">
-    5. Launch Jupyter
+  <a href="#5-test-the-installation-essential" class="md-nav__link">
+    5. Test the installation (essential!)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-launch-jupyter" class="md-nav__link">
+    6. Launch Jupyter
   </a>
   
 </li>
@@ -569,8 +576,15 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#5-launch-jupyter" class="md-nav__link">
-    5. Launch Jupyter
+  <a href="#5-test-the-installation-essential" class="md-nav__link">
+    5. Test the installation (essential!)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-launch-jupyter" class="md-nav__link">
+    6. Launch Jupyter
   </a>
   
 </li>
@@ -604,7 +618,7 @@
 <p>Follow the instructions below to set up your Python environment. The only requirement is that you have to do this <strong>before</strong> the course! Feel free to contact <a href="mailto:tiago.silva@cefas.co.uk">Tiago</a> if you have any problems with the installation (but better google them first!)</p>
 <p>Note: <strong>the course is designed in Python 3.8</strong>. Even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.</p>
 <h2 id="1-install-python-distribution-using-anaconda">1. Install Python distribution using Anaconda</h2>
-<p>1.1. <a href="https://www.anaconda.com/download/">Download Anaconda with Python 3.7 for your OS</a>. If you have a Cefas laptop, <strong>do not</strong> install Python from the Cefas Software Centre.</p>
+<p>1.1. <a href="https://www.anaconda.com/download/">Download Anaconda with Python 3 for your OS</a>. If you have a Cefas laptop, <strong>do not</strong> install Python from the Cefas Software Centre.</p>
 <p>1.2. Install it following <a href="https://docs.anaconda.com/anaconda/install/">these instructions</a>. Be sure to select install "just me" when prompted.</p>
 <h2 id="2-download-course-materials">2. Download course materials</h2>
 <p>The material for the workshop can be directly downloaded as a <a href="https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip">zip file</a> or can be cloned from our <a href="https://github.com/ueapy/pythoncourse2021-materials">GitHub repository</a>.</p>
@@ -643,7 +657,8 @@
 <p>3.4. Create the environment using <code>conda</code> package manager:</p>
 <pre><code class="language-bash">conda env create -f environment.yml
 </code></pre>
-<p>This will take some time depending on your Internet speed (&lt;15 minutes).</p>
+<p>This will take some time depending on your Internet speed (&lt;15 minutes).
+If you get stuck try typying return or creating the environment again.</p>
 <h2 id="4-activate-the-environment">4. Activate the environment</h2>
 <h3 id="linux-mac">Linux / Mac</h3>
 <p>If your default shell is NOT bash, first type <code>bash</code>. Activate the relevant environment by typing:</p>
@@ -653,7 +668,12 @@
 <p>Still in the command line (Anaconda prompt), type:</p>
 <pre><code>activate course2021
 </code></pre>
-<h2 id="5-launch-jupyter">5. Launch Jupyter</h2>
+<h2 id="5-test-the-installation-essential">5. Test the installation (essential!)</h2>
+<p>From the terminal type:</p>
+<pre><code>python -c &quot;import seaborn&quot;
+</code></pre>
+<p>If you don't get any errors then your installation was sucessful.</p>
+<h2 id="6-launch-jupyter">6. Launch Jupyter</h2>
 <p>Once the environment is activated, type </p>
 <pre><code>jupyter notebook
 </code></pre>
