@@ -9,7 +9,7 @@ Note: The course is designed in Python 3.8 but even if you have a different vers
 
 For Cefas users: Anaconda is very likely to be discontinued at cefas in favour of free alternatives such as [Miniforge3](https://github.com/conda-forge/miniforge). If you want to be ahead of the curve install this instead of Anaconda in point 1.1 and 1.2.
 
-1.1. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, it is better **not to install*** the older version on the Cefas Software Centre.
+1.1. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, it is better **not to install** the older version on the Cefas Software Centre.
 
 1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me" when prompted.
 
@@ -17,10 +17,10 @@ For Cefas users: Anaconda is very likely to be discontinued at cefas in favour o
 The material for the workshop can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2021-materials).
 
 
-### Option 1: Download ZIP file
-Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder.
+### Option 1: Download ZIP file (easier)
+Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder. Jump to "3. Create the environment".
 
-### Option 2: Using Git
+### Option 2: Using Git (allows restoring originals after modifications)
 #### 2.1. Install Git
 If you don't have git version control system installed, you can install it following these instructions:
 ##### Linux
@@ -53,7 +53,7 @@ Windows-users, double check that it has been cloned in the directory you wanted.
 ## 3. Create the environment
 3.1. Make sure Anaconda is installed and the course materials are downloaded
 
-3.2. Open the command line (e.g., OS X terminal on Mac; **Anaconda prompt** on Windows)
+3.2. Open the command line (i.e., search "Terminal" on Mac Spotlight Seach; search "Anaconda prompt" on Windows start menu)
 
 3.3. Navigate to the cloned / downloaded folder (using `cd` command), for example:
 
@@ -67,18 +67,18 @@ cd C:\Users\myname\Downloads\pythoncourse2021-materials\
 conda env create -f environment.yml
 ```
 This will take some time depending on your Internet speed (<15 minutes).
-If you get stuck try typying return or creating the environment again.
+If you get stuck try typing return or, failing this, creating the environment again.
 
 ## 4. Activate the environment
 ### Linux / Mac
 If your default shell is NOT bash, first type `bash`. Activate the relevant environment by typing:
 ```bash
-source activate course2021
+conda activate course2021
 ```
 ### Windows
 Still in the command line (Anaconda prompt), type:
 ```
-activate course2021
+conda activate course2021
 ```
 
 ## 5. Test the installation (essential!)
