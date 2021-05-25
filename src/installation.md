@@ -7,7 +7,7 @@ Note: The course is designed in Python 3.8 but even if you have a different vers
 
 ## 1. Install Python distribution
 
-For Cefas users: Anaconda is very likely to be discontinued at cefas in favour of free alternatives such as [Miniforge3](https://github.com/conda-forge/miniforge). If you want to be ahead of the curve install this instead of Anaconda in point 1.1 and 1.2.
+For Cefas users: Anaconda is very likely to be discontinued at Cefas in favour of free alternatives such as Miniforge or Mamba. If you want to be ahead of the curve install [Miniforge3](https://github.com/conda-forge/miniforge) instead of Anaconda in point 1.1 and 1.2.
 
 1.1. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, it is better **not to install** the older version on the Cefas Software Centre.
 
@@ -18,7 +18,7 @@ The material for the workshop can be directly downloaded as a [zip file](https:/
 
 
 ### Option 1: Download ZIP file (easier)
-Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder. Jump to "3. Create the environment".
+Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder. Jump to [3. Create the environment](installation.md#3.-Create-the-environment).
 
 ### Option 2: Using Git (allows restoring originals after modifications)
 #### 2.1. Install Git
