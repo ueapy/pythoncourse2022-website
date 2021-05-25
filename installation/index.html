@@ -292,18 +292,18 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#option-1-download-zip-file" class="md-nav__link">
-    Option 1: Download ZIP file
+  <a href="#option-1-download-zip-file-easier" class="md-nav__link">
+    Option 1: Download ZIP file (easier)
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#option-2-using-git" class="md-nav__link">
-    Option 2: Using Git
+  <a href="#option-2-using-git-allows-restoring-originals-after-modifications" class="md-nav__link">
+    Option 2: Using Git (allows restoring originals after modifications)
   </a>
   
-    <nav class="md-nav" aria-label="Option 2: Using Git">
+    <nav class="md-nav" aria-label="Option 2: Using Git (allows restoring originals after modifications)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -476,18 +476,18 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#option-1-download-zip-file" class="md-nav__link">
-    Option 1: Download ZIP file
+  <a href="#option-1-download-zip-file-easier" class="md-nav__link">
+    Option 1: Download ZIP file (easier)
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#option-2-using-git" class="md-nav__link">
-    Option 2: Using Git
+  <a href="#option-2-using-git-allows-restoring-originals-after-modifications" class="md-nav__link">
+    Option 2: Using Git (allows restoring originals after modifications)
   </a>
   
-    <nav class="md-nav" aria-label="Option 2: Using Git">
+    <nav class="md-nav" aria-label="Option 2: Using Git (allows restoring originals after modifications)">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -619,13 +619,13 @@ Feel free to contact <a href="mailto:tiago.silva@cefas.co.uk">Tiago</a> or <a hr
 <p>Note: The course is designed in Python 3.8 but even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.</p>
 <h2 id="1-install-python-distribution">1. Install Python distribution</h2>
 <p>For Cefas users: Anaconda is very likely to be discontinued at cefas in favour of free alternatives such as <a href="https://github.com/conda-forge/miniforge">Miniforge3</a>. If you want to be ahead of the curve install this instead of Anaconda in point 1.1 and 1.2.</p>
-<p>1.1. <a href="https://www.anaconda.com/download/">Download Anaconda with Python 3 for your OS</a>. If you have a Cefas laptop, it is better <strong>not to install</strong>* the older version on the Cefas Software Centre.</p>
+<p>1.1. <a href="https://www.anaconda.com/download/">Download Anaconda with Python 3 for your OS</a>. If you have a Cefas laptop, it is better <strong>not to install</strong> the older version on the Cefas Software Centre.</p>
 <p>1.2. Install it following <a href="https://docs.anaconda.com/anaconda/install/">these instructions</a>. Be sure to select install "just me" when prompted.</p>
 <h2 id="2-download-course-materials">2. Download course materials</h2>
 <p>The material for the workshop can be directly downloaded as a <a href="https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip">zip file</a> or can be cloned from our <a href="https://github.com/ueapy/pythoncourse2021-materials">GitHub repository</a>.</p>
-<h3 id="option-1-download-zip-file">Option 1: Download ZIP file</h3>
-<p>Download the materials as a <a href="https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip">zip file</a> and unpack it in a suitable directory, for example, in <code>Downloads</code> folder.</p>
-<h3 id="option-2-using-git">Option 2: Using Git</h3>
+<h3 id="option-1-download-zip-file-easier">Option 1: Download ZIP file (easier)</h3>
+<p>Download the materials as a <a href="https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip">zip file</a> and unpack it in a suitable directory, for example, in <code>Downloads</code> folder. Jump to "3. Create the environment".</p>
+<h3 id="option-2-using-git-allows-restoring-originals-after-modifications">Option 2: Using Git (allows restoring originals after modifications)</h3>
 <h4 id="21-install-git">2.1. Install Git</h4>
 <p>If you don't have git version control system installed, you can install it following these instructions:</p>
 <h5 id="linux">Linux</h5>
@@ -651,7 +651,7 @@ Feel free to contact <a href="mailto:tiago.silva@cefas.co.uk">Tiago</a> or <a hr
 <p>Windows-users, double check that it has been cloned in the directory you wanted.</p>
 <h2 id="3-create-the-environment">3. Create the environment</h2>
 <p>3.1. Make sure Anaconda is installed and the course materials are downloaded</p>
-<p>3.2. Open the command line (e.g., OS X terminal on Mac; <strong>Anaconda prompt</strong> on Windows)</p>
+<p>3.2. Open the command line (i.e., search "Terminal" on Mac Spotlight Seach; search "Anaconda prompt" on Windows start menu)</p>
 <p>3.3. Navigate to the cloned / downloaded folder (using <code>cd</code> command), for example:</p>
 <pre><code>cd C:\Users\myname\Downloads\pythoncourse2021-materials\
 </code></pre>
@@ -659,15 +659,15 @@ Feel free to contact <a href="mailto:tiago.silva@cefas.co.uk">Tiago</a> or <a hr
 <pre><code class="language-bash">conda env create -f environment.yml
 </code></pre>
 <p>This will take some time depending on your Internet speed (&lt;15 minutes).
-If you get stuck try typying return or creating the environment again.</p>
+If you get stuck try typing return or, failing this, creating the environment again.</p>
 <h2 id="4-activate-the-environment">4. Activate the environment</h2>
 <h3 id="linux-mac">Linux / Mac</h3>
 <p>If your default shell is NOT bash, first type <code>bash</code>. Activate the relevant environment by typing:</p>
-<pre><code class="language-bash">source activate course2021
+<pre><code class="language-bash">conda activate course2021
 </code></pre>
 <h3 id="windows_1">Windows</h3>
 <p>Still in the command line (Anaconda prompt), type:</p>
-<pre><code>activate course2021
+<pre><code>conda activate course2021
 </code></pre>
 <h2 id="5-test-the-installation-essential">5. Test the installation (essential!)</h2>
 <p>From the terminal type:</p>
