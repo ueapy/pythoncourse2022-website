@@ -62,11 +62,11 @@ Thursday 10th of June 2021
 
 | Topic                     | Leader | Type     | Time | Duration |
 |---------------------------|--------|----------|------|----------|
-| More matplotlib and exercise| Jenny | Lecture |  9:00 | 01:00    |
-| *Break*                   |       |          | 10:00 | 00:05    |
-| Introduction to cartopy   | Eliza | Lecture  | 10:05 | 01:00    |
-| *Break*                   |       |          | 11:05 | 00:15    |
-| Datetime                  | Eliza | Lecture  | 11:20 | 00:45    |
+| Datetime                  | Eliza  | Lecture  | 9:00 | 00:45    |
+| *Break*                   |        |          | 9:45 | 00:05    |
+| More matplotlib and exercise | Jenny | Lecture | 9:50 | 01:00    |
+| *Break*                   |       |          | 10:50 | 00:15    |
+| Introduction to cartopy   | Eliza | Lecture  | 11:05 | 01:00    |
 | Introduction to pandas    | Will  | Lecture  | 12:05 | 00:45    |
 | *End*                     |       |          | 12:50 |          |
 
@@ -78,7 +78,7 @@ Friday 11th of June 2021
 | More pandas               | Tiago  | Lecture  |  9:00 | 01:15    |
 | *Break*                   |        |          | 10:15 | 00:15    |
 | Plotting with Seaborn     | Tiago  | Lecture  | 10:30 | 00:45    |
-| *Break*                   |        |          | 11:15 | 00:15    |
-| xarray and netCDF         | Jenny  | Lecture  | 11:30 | 01:30    |
-| *Wrap-up and corse End*   |        |          | 13:00 |          |
+| *Break*                   |        |          | 11:15 | 00:05    |
+| xarray and netCDF         | Jenny  | Lecture  | 11:20 | 01:30    |
+| *Wrap-up and course end*   |        |          | 12:50 |          |
 
