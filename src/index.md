@@ -10,6 +10,8 @@
 ## When?
 7 - 11 June 2021
 
+[Install](installation.md) course environment and materials in the week before.
+
 ## Where?
 The comfort of your own home
 
@@ -36,12 +38,16 @@ The course is open to all UEA students and staff but there is a fee of 35 GBP. S
 
 If you have queries please contact:
 
-* Beth (UEA, Aries) [e.siddle@uea.ac.uk](mailto:e.siddle@uea.ac.uk)
-* Jenny (Cefas) [jennifer.graham@cefas.co.uk](mailto:jennifer.graham@cefas.co.uk)
+* [Beth (UEA, Aries)](mailto:e.siddle@uea.ac.uk)
+* [Jenny (Cefas)](mailto:jennifer.graham@cefas.co.uk)
 
 ## Unable to attend?
 
+Contact us by email to receive access to the recorded sessions. 
+
 ###Cefas
+There will be follow up sessions in July for those that followed the recorded sessions on their own.
+
 The PyFAS group meets occasionally. Contact Ralph Brayne to receive the invites.
 
 ###UEA

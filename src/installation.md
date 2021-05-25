@@ -1,13 +1,15 @@
 # Installation instructions
 
-For this workshop you need to install Python on your laptop!
+For this course you will need to have Python installed on your laptop, inlcuding some extra packages. Follow the instructions below to set up your Python environment. Make sure you do this do this **before** the course, including running the test as below. There will be an **installation party** advertised in the invite email.
+Feel free to contact [Tiago](mailto:tiago.silva@cefas.co.uk) or [Will](mailto:w.hodder@uea.ac.uk) if you have any problems with the installation (but better do an internet search first!)
 
-Follow the instructions below to set up your Python environment. The only requirement is that you have to do this **before** the course! Feel free to contact [Tiago](mailto:tiago.silva@cefas.co.uk) if you have any problems with the installation (but better google them first!)
+Note: The course is designed in Python 3.8 but even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
 
-Note: **the course is designed in Python 3.8**. Even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
+## 1. Install Python distribution
 
-## 1. Install Python distribution using Anaconda
-1.1. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, **do not** install Python from the Cefas Software Centre.
+For Cefas users: Anaconda is very likely to be discontinued at cefas in favour of free alternatives such as [Miniforge3](https://github.com/conda-forge/miniforge). If you want to be ahead of the curve install this instead of Anaconda in point 1.1 and 1.2.
+
+1.1. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, it is better **not to install*** the older version on the Cefas Software Centre.
 
 1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me" when prompted.
 
