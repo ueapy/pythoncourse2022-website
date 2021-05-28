@@ -7,7 +7,7 @@ Follow the [installation instructions](installation.md) *and make sure to run th
 
 | Topic                     | Leader | Type     | Time  | Duration |
 |---------------------------|--------|----------|-------|----------|
-| Installation party        | Will   | Workshop | 14:00 | 01:00    |
+| Installation party        | Nele,Eliza | Workshop | 14:00 | 01:00    |
 
 ## Day 1 - Python Basics
 Monday 7th of June 2021
@@ -24,7 +24,7 @@ Monday 7th of June 2021
 | Python variable types     | Tiago  | Lecture  | 11:15 |  0:30    |
 | Try what you learned      | Tiago  | Exercise | 11:45 |  0:30    |
 | *Lunch break*             |        |          | 12:15 |          |
-| Guided practice           | Beth,Tiago | Exercise | 14:00 |  1:00    |
+| Guided practice           | Beth,Eliza | Exercise | 14:00 |  1:00    |
 | *End*                     |        |          | 15:00 |          |
 
 
@@ -40,7 +40,7 @@ Tuesday 8th of June 2021
 | Modularity and packages   | Tiago  | Lecture  | 11:45 |  0:30    |
 | Build another program     | Tiago  | Exercise | 12:15 |  0:30    |
 | *Lunch break*             |        |          | 12:45 |          |
-| Guided practice           | Nele, Tiago | Exercise | 14:00 |  1:00    |
+| Guided practice           | Will,  | Exercise | 14:00 |  1:00    |
 | *End*                     |        |          | 15:00 |          |
 
 ## Day 3 -  Arrays and intro to plotting
@@ -54,7 +54,7 @@ Wenesday 9th of June 2021
 | Going deeper in numpy     | Jenny  | Lecture  | 10:45 |  1:00    |
 | Intro to matplotlib       | Nele   | Lecture  | 11:45 |  1:00    |
 | *Lunch break*             |        |          | 12:45 |          |
-| Guided practice           | Will   | Exercise | 14:00 |  1:00    |
+| Guided practice           | Nele   | Exercise | 14:00 |  1:00    |
 | *End*                     |        |          | 15:00 |          |
 
 ## Day 4 -  Further plotting and tables

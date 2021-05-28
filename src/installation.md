@@ -1,8 +1,7 @@
 # Installation instructions
 
 For this course you will need to have Python installed on your laptop, inlcuding some extra packages. Follow the instructions below to set up your Python environment. Make sure you do this do this **before** the course, including running the test as below. There will be an **installation party** advertised in the invite email.
-Feel free to contact [Tiago](mailto:tiago.silva@cefas.co.uk) or [Will](mailto:w.hodder@uea.ac.uk) if you have any problems with the installation (but better do an internet search first!)
-
+Feel free to contact [Jenny at Cefas](mailto:jennifer.graham@cefas.co.uk) or [Will at UEA](mailto:w.hodder@uea.ac.uk) if you have any problems with the installation (but better do an internet search first!)
 Note: The course is designed in Python 3.8 but even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
 
 ## 1. Install Python distribution
@@ -14,7 +13,7 @@ For Cefas users: Anaconda is very likely to be discontinued at Cefas in favour o
 1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me" when prompted.
 
 ## 2. Download course materials
-The material for the workshop can be directly downloaded as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2021-materials).
+From friday before the course (4th of June) the material for the workshop can be downloaded as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2021-materials). 
 
 
 ### Option 1: Download ZIP file (easier)
