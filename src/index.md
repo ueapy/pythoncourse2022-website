@@ -8,7 +8,7 @@
 * No previous Python experience is required!
 
 ## When?
-7 - 11 June 2021
+TBD 2022
 
 [Install](installation.md) course environment and materials in the week before.
 
@@ -38,7 +38,7 @@ The course is open to all UEA students and staff but there is a fee of 35 GBP. S
 
 If you have queries please contact:
 
-* [Beth (UEA, Aries)](mailto:e.siddle@uea.ac.uk)
+* [Eliza (UEA, Aries)](mailto:e.karlowska@uea.ac.uk)
 * [Jenny (Cefas)](mailto:jennifer.graham@cefas.co.uk)
 
 ## Unable to attend?

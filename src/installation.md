@@ -1,7 +1,7 @@
 # Installation instructions
 
 For this course you will need to have Python installed on your laptop, inlcuding some extra packages. Follow the instructions below to set up your Python environment. Make sure you do this do this **before** the course, including running the test as below. There will be an **installation party** advertised in the invite email.
-Feel free to contact [Jenny at Cefas](mailto:jennifer.graham@cefas.co.uk) or [Will at UEA](mailto:w.hodder@uea.ac.uk) if you have any problems with the installation (but better do an internet search first!)
+Feel free to contact [Jenny at Cefas](mailto:jennifer.graham@cefas.co.uk) or [Eliza at UEA](mailto:e.karlowska@uea.ac.uk) if you have any problems with the installation (but better do an internet search first!)
 Note: The course is designed in Python 3.8 but even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
 
 ## 1. Install Python distribution
@@ -42,7 +42,7 @@ Download and install [Git for Windows](https://git-scm.com/downloads).
 2.2.3. Clone the repo by typing
 
 ```
-git clone https://github.com/ueapy/pythoncourse2021-materials.git
+git clone https://github.com/ueapy/pythoncourse2022-materials.git
 ```
 This should create a local copy of the course materials in the current directory.
 
@@ -57,7 +57,7 @@ Windows-users, double check that it has been cloned in the directory you wanted.
 3.3. Navigate to the cloned / downloaded folder (using `cd` command), for example:
 
 ```
-cd C:\Users\myname\Downloads\pythoncourse2021-materials\
+cd C:\Users\myname\Downloads\pythoncourse2022-materials\
 ```
 
 3.4. Create the environment using `conda` package manager:
@@ -72,12 +72,12 @@ If you get stuck try typing return or, failing this, creating the environment ag
 ### Linux / Mac
 If your default shell is NOT bash, first type `bash`. Activate the relevant environment by typing:
 ```bash
-conda activate course2021
+conda activate course2022
 ```
 ### Windows
 Still in the command line (Anaconda prompt), type:
 ```
-conda activate course2021
+conda activate course2022
 ```
 
 ## 5. Test the installation (essential!)
@@ -96,4 +96,4 @@ in the command line. This should open Jupyter Notebook in your browser.
 
 ## Still having trouble?
 If you are unable to install Anaconda Python on your PC, contact the [course organisers](index.md#registration-and-enquiries).
-Another option: launch the course in the cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2021-materials). This requires no installation but progress and modifications won't be saved.
+Another option: launch the course in the cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2022-materials). This requires no installation but progress and modifications won't be saved.

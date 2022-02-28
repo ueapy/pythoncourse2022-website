@@ -1,6 +1,6 @@
-# Website for Cefas and Aries Python course 2021
+# Website for Cefas and Aries Python course 2022
 
-https://ueapy.github.io/pythoncourse2021-website
+https://ueapy.github.io/pythoncourse2022-website
 
 
 Steps to generate pages using mkdocs:
