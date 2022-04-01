@@ -3,82 +3,64 @@
 ## Day 0 - Getting ready
 Friday 4th of June 2021
 
-Follow the [installation instructions](installation.md) *and make sure to run the test*. We run an installation party to help you out.
-
-| Topic                     | Leader | Type     | Time  | Duration |
-|---------------------------|--------|----------|-------|----------|
-| Installation party        | Nele,Eliza | Workshop | 14:00 | 01:00    |
-
-## Day 1 - Python Basics
-Monday 7th of June 2021
-
-| Topic                     | Leader | Type     | Time  | Duration |
-|---------------------------|--------|----------|-------|----------|
-| Welcome                   | All    | Lecture  |  9:00 |  0:15    |
-| Introduction to Python    | Tiago  | Lecture  |  9:15 |  0:30    |
-| How to run Python scripts | Tiago  | Lecture  |  9:45 |  0:15    |
-| Jupyter Notebook          | Tiago  | Lecture  | 10:00 |  0:30    |
-| *Break*                   |        |          | 10:30 |  0:15    |
-| Python syntax             | Beth,Eliza | Lecture  | 10:45 |  0:15    |
-| Python semantics          | Tiago  | Lecture  | 11:00 |  0:15    |
-| Python variable types     | Tiago  | Lecture  | 11:15 |  0:30    |
-| Try what you learned      | Tiago  | Exercise | 11:45 |  0:30    |
-| *Lunch break*             |        |          | 12:15 |          |
-| Guided practice           | Beth,Eliza | Exercise | 14:00 |  1:00    |
-| *End*                     |        |          | 15:00 |          |
+Follow the [installation instructions](installation.md) *and make sure to run the test*.
 
 
-## Day 2 -  Control flow and programming environment
-Tuesday 8th of June 2021
+## Day 1 - Python basics
+Wednesday 27th April 2022, 9:00 - 16:40 BST
+Location: Blackdale BDS 0.21, UEA
 
-| Topic                     | Leader | Type     | Start | Duration |
-|---------------------------|--------|----------|-------|----------|
-| Control flow statements   | Will   | Lecture  |  9:00 |  0:45    |
-| Defining functions        | Will   | Lecture  |  9:45 |  0:45    |
-| *Break*                   |        |          | 10:30 |  0:15    |
-| Build a simple program    | Tiago  | Exercise | 10:45 |  1:00    |
-| Modularity and packages   | Tiago  | Lecture  | 11:45 |  0:30    |
-| Build another program     | Tiago  | Exercise | 12:15 |  0:30    |
-| *Lunch break*             |        |          | 12:45 |          |
-| Guided practice           | Will,  | Exercise | 14:00 |  1:00    |
-| *End*                     |        |          | 15:00 |          |
+| Topic                     | Type     | Time  | Duration |
+|---------------------------|----------|-------|----------|
+| Welcome                   | Lecture  |  9:00 |  0:15    |
+| Introduction to Python    | Lecture  |  9:15 |  0:30    |
+| How to run Python scripts | Lecture  |  9:45 |  0:15    |
+| Jupyter Notebooks         | Lecture  | 10:00 |  0:30    |
+| *Break*                   |          | 10:30 |  0:15    |
+| Python syntax             | Lecture  | 10:45 |  0:20    |
+| Python semantics          | Lecture  | 11:05 |  0:20    |
+| Scalar types              | Lecture  | 11:25 |  0:30    |
+| Data structures           | Lecture  | 11:55 |  1:00    |
+| *Lunch break (BDS 0.35)*  |          | 12:55 |  1:00    |
+| Data structures           | Exercises| 13:55 |  0:30    |
+| Control flow statements 1 | Lectures | 14:25 |  1:00    |
+| *Break*                   |          | 15:25 |  0:15    |
+| Control flow statements 2 | Exercises| 15:40 |  1:00    |
 
-## Day 3 -  Arrays and intro to plotting
-Wenesday 9th of June 2021
+## Day 2 -  Functions, simple programs and arrays
+Thursday 28th April 2022, 9:00 - 16:45 BST
+Location: Blackdale BDS 0.14, UEA
 
-| Topic                     | Leader | Type     | Time  | Duration |
-|---------------------------|--------|----------|-------|----------|
-| Numpy: basics             | Beth   | Lecture  |  9:00 |  1:00    |
-| Numpy: explore arrays     | Jenny  | Exercise | 10:00 |  0:30    |
-| *Break*                   |        |          | 10:30 |  0:15    |
-| Going deeper in numpy     | Jenny  | Lecture  | 10:45 |  1:00    |
-| Intro to matplotlib       | Nele   | Lecture  | 11:45 |  1:00    |
-| *Lunch break*             |        |          | 12:45 |          |
-| Guided practice           | Nele   | Exercise | 14:00 |  1:00    |
-| *End*                     |        |          | 15:00 |          |
+| Topic                     | Type     | Time  | Duration |
+|---------------------------|----------|-------|----------|
+| Guided practice           | Exercise |  9:00 |  1:00    |
+| Defining fucntions        | Lecture  | 10:00 |  1:00    |
+| *Break*                   |          | 11:00 |  0:15    |
+| Build a simple program    | Exercise | 11:15 |  0:45    |
+| Modularity and packages   | Lecture  | 12:00 |  0:30    |
+| *Lunch break (BDS 0.35)*  |          | 12:30 |  1:00    |
+| Build another program     | Exercise | 13:30 |  0:30    |
+| NumPy: basics             | Lecture  | 14:00 |  1:00    |
+| *Break*                   |          | 15:00 |  0:15    |
+| NumPy: explore arrays     | Lecture  | 15:15 |  0:30    |
+| NumPy: advanced           | Lecture  | 15:45 |  1:00    |
 
-## Day 4 -  Further plotting and tables
-Thursday 10th of June 2021
+## Day 3 -  Plotting and data analysis
+Friday 29th April 2022, 9:00 - 16:20 BST
+Location: Blackdale BDS 0.21, UEA
 
-| Topic                     | Leader | Type     | Time | Duration |
-|---------------------------|--------|----------|------|----------|
-| Datetime                  | Eliza  | Lecture  | 9:00 | 00:45    |
-| *Break*                   |        |          | 9:45 | 00:05    |
-| More matplotlib and exercise | Jenny | Lecture | 9:50 | 01:00    |
-| *Break*                   |       |          | 10:50 | 00:15    |
-| Introduction to cartopy   | Eliza | Lecture  | 11:05 | 01:00    |
-| Introduction to pandas    | Will  | Lecture  | 12:05 | 00:45    |
-| *End*                     |       |          | 12:50 |          |
-
-## Day 5 - Maps and array datasets
-Friday 11th of June 2021
-
-| Topic                     | Leader | Type     | Time | Duration |
-|---------------------------|--------|----------|-------|----------|
-| More pandas               | Tiago  | Lecture  |  9:00 | 01:15    |
-| *Break*                   |        |          | 10:15 | 00:15    |
-| Plotting with Seaborn     | Tiago  | Lecture  | 10:30 | 00:45    |
-| *Break*                   |        |          | 11:15 | 00:05    |
-| xarray and netCDF         | Jenny  | Lecture  | 11:20 | 01:30    |
-| *Wrap-up and course end*   |        |          | 12:50 |          |
-
+| Topic                     | Type     | Time  | Duration |
+|---------------------------|----------|-------|----------|
+| Intro to matplotlib       | Lecture  |  9:00 |  1:00    |
+| Guided practice           | Exercise | 10:00 |  0:30    |
+| *Break*                   |          | 10:30 |  0:15    |
+| Datetime                  | Lecture  | 10:45 |  0:15    |
+| More matplotlib           | Exercise | 11:00 |  1:00    |
+| *Lunch break (BDS 0.35)*  |          | 12:00 |  1:00    |
+| Intro to cartopy          | Lecture  | 13:00 |  0:30    |
+| Intro to pandas           | Lecture  | 13:30 |  0:45    |
+| *Break*                   |          | 14:15 |  0:15    |
+| More pandas               | Lecture  | 14:30 |  0:30    |
+| xarray and netCDF         | Lecture  | 15:00 |  0:45    |
+| *Break*                   |          | 15:45 |  0:05    |
+| Plotting with Seaborn     | Lecture  | 15:50 |  0:30    |
