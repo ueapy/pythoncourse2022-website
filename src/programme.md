@@ -46,7 +46,7 @@ Location: Blackdale BDS 0.14, UEA
 | NumPy: advanced           | Lecture  | 15:45 |  1:00    |
 
 ## Day 3 -  Plotting and data analysis
-Friday 29th April 2022, 9:00 - 16:20 BST
+Friday 29th April 2022, 9:00 - 16:15 BST
 Location: Blackdale BDS 0.21, UEA
 
 | Topic                     | Type     | Time  | Duration |
@@ -59,8 +59,7 @@ Location: Blackdale BDS 0.21, UEA
 | *Lunch break (BDS 0.35)*  |          | 12:00 |  1:00    |
 | Intro to cartopy          | Lecture  | 13:00 |  0:30    |
 | Intro to pandas           | Lecture  | 13:30 |  0:45    |
-| *Break*                   |          | 14:15 |  0:15    |
-| More pandas               | Lecture  | 14:30 |  0:30    |
+| More pandas               | Lecture  | 14:15 |  0:30    |
+| *Break*                   |          | 14:45 |  0:15    |
 | xarray and netCDF         | Lecture  | 15:00 |  0:45    |
-| *Break*                   |          | 15:45 |  0:05    |
-| Plotting with Seaborn     | Lecture  | 15:50 |  0:30    |
+| Plotting with Seaborn     | Lecture  | 15:45 |  0:30    |

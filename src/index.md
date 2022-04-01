@@ -7,7 +7,7 @@
 * The 3-day workshop organised by [ARIES DTP](https://www.aries-dtp.ac.uk/) and [Cefas](http://www.cefas.co.uk/) giving a hands-on introduction to [Python](http://www.python.org/) programming language.
 * You will learn the basics of Python scripting and then focus on the analysis and visualisation of data formats commonly used in environmental sciences.
 * No previous Python experience is required!
-* Hybrid course, you can attend in person in Norwich or online.
+* Hybrid course, you can attend in-person in Norwich or online. Lunch and refreshments will be provided for in-person participants.
 
 ### When and where
 
@@ -39,10 +39,10 @@ The course is free for
 * Aries DTP students
 * Cefas staff and CASE students
 
-The course is open to all UEA students and staff but there is a fee of XX GBP. See contact below for enquiries.
+The course is open to all UEA students and staff but there is a fee of 60 GBP. See contact below for enquiries.
 
 
-Register at Eventbrite [LINK TO BE ANNOUNED].
+Register at [Eventbrite](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2022-tickets-311667936187).
 
 If you have queries please contact:
 
@@ -53,12 +53,12 @@ If you have queries please contact:
 
 Contact us by email to receive access to the recorded sessions. 
 
-### Cefas
+## Cefas
 There will be follow up sessions in July for those that followed the recorded sessions on their own.
 
 The PyFAS group meets occasionally. Contact Ralph Brayne to receive the invites.
 
-### UEA
+## UEA
 The UEA Python group meets occasionally. Check the archives of previous sessions here: [https://ueapy.github.io](https://ueapy.github.io/). Or join our [Slack workspace](https://uea-python.slack.com/) to ask questions and take part in weekly coding drop ins.
 
 <center>
