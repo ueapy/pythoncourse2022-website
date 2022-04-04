@@ -39,7 +39,7 @@ The course is free for
 * Aries DTP students
 * Cefas staff and CASE students
 
-The course is open to all UEA students and staff but there is a fee of 60 GBP. See contact below for enquiries.
+The course is open to all UEA students and staff but there is a fee of 50 GBP. See contact below for enquiries.
 
 
 Register at [Eventbrite](https://www.eventbrite.co.uk/e/introduction-to-python-in-environmental-sciences-2022-tickets-311667936187).
