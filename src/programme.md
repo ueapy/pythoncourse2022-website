@@ -1,10 +1,6 @@
 # Programme
 
-## Day 0 - Getting ready
-Friday 4th of June 2021
-
-Follow the [installation instructions](installation.md) *and make sure to run the test*.
-
+Before the course, follow the [installation instructions](installation.md) *and make sure to run the tests*.
 
 ## Day 1 - Python basics
 Wednesday 27th April 2022, 9:00 - 16:40 BST
