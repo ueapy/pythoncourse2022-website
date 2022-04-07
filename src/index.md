@@ -49,16 +49,19 @@ If you have queries please contact:
 * [Eliza (UEA, Aries)](mailto:e.karlowska@uea.ac.uk)
 * [Jenny (Cefas)](mailto:jennifer.graham@cefas.co.uk)
 
+
 ## Unable to attend?
 
 Contact us by email to receive access to the recorded sessions. 
 
-## Cefas
-There will be follow up sessions in July for those that followed the recorded sessions on their own.
+## Support after the course? 
 
-The PyFAS group meets occasionally. Contact Ralph Brayne to receive the invites.
+### Cefas
+The PyFAS group meets occasionally, to present work, discuss python problems and provide general support. 
 
-## UEA
+Contact Harry Lloyd to join the group and receive future invites.
+
+### UEA
 The UEA Python group meets occasionally. Check the archives of previous sessions here: [https://ueapy.github.io](https://ueapy.github.io/). Or join our [Slack workspace](https://uea-python.slack.com/) to ask questions and take part in weekly coding drop ins.
 
 <center>
