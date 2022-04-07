@@ -6,18 +6,29 @@ Note: The course is designed in Python 3.8 but even if you have a different vers
 
 ## 1. Install Python distribution
 
-For Cefas users: Anaconda is very likely to be discontinued at Cefas in favour of free alternatives such as Miniforge or Mamba. If you want to be ahead of the curve install [Miniforge3](https://github.com/conda-forge/miniforge) instead of Anaconda in point 1.1 and 1.2.
+### Cefas Users
+We do not have free access to Anaconda, so please use a free alternative such as Mamba instead. For those in academia, we also recommend this as a more lightweight (and often faster) python installation option!  
 
-1.1. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). If you have a Cefas laptop, it is better **not to install** the older version on the Cefas Software Centre.
+1.1.a [Download Mambaforge for your OS](https://github.com/conda-forge/miniforge#mambaforge) 
 
-1.2. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me" when prompted.
+1.2.a After downloading, follow the instructions as suggested [here](https://github.com/conda-forge/miniforge#install)
+
+### Students or UEA Staff
+1.1.b. [Download Anaconda with Python 3 for your OS](https://www.anaconda.com/download/). 
+
+1.2.b. Install it following [these instructions](https://docs.anaconda.com/anaconda/install/). Be sure to select install "just me" when prompted.
+
+### UEA HPC (Ada)
+Following the course, there are a number of modules available for use of python on Ada, using either mamba or anaconda. 
+
+However, for the purpose of this course, we recommend viewing the notebooks on your own machine. 
 
 ## 2. Download course materials
-From friday before the course (4th of June) the material for the workshop can be downloaded as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2021-materials). 
+From monday before the course (25th April) the material for the workshop can be downloaded as a [zip file](https://github.com/ueapy/pythoncourse2022-materials/archive/main.zip) or can be cloned from our [GitHub repository](https://github.com/ueapy/pythoncourse2022-materials). 
 
 
 ### Option 1: Download ZIP file (easier)
-Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2021-materials/archive/master.zip) and unpack it in a suitable directory, for example, in `Downloads` folder. Jump to [3. Create the environment](installation.md#3.-Create-the-environment).
+Download the materials as a [zip file](https://github.com/ueapy/pythoncourse2022-materials/archive/main.zip) and unpack it in a suitable directory, for example, in `Downloads` folder. Jump to [3. Create the environment](installation.md#3.-Create-the-environment).
 
 ### Option 2: Using Git (allows restoring originals after modifications)
 #### 2.1. Install Git
@@ -50,11 +61,11 @@ Windows-users, double check that it has been cloned in the directory you wanted.
 
 
 ## 3. Create the environment
-3.1. Make sure Anaconda is installed and the course materials are downloaded
+3.1. Make sure Anaconda or Mambaforge is installed and the course materials are downloaded
 
-3.2. Open the command line (i.e., search "Terminal" on Mac Spotlight Seach; search "Anaconda prompt" on Windows start menu)
+3.2. Open the command line or python prompt (i.e., search "Terminal" on Mac Spotlight Seach; search "Anaconda prompt" or "mamba" on Windows start menu)
 
-3.3. Navigate to the cloned / downloaded folder (using `cd` command), for example:
+3.3. Navigate to folder containing the cloned / downloaded course materials. Use the `cd` command, for example:
 
 ```
 cd C:\Users\myname\Downloads\pythoncourse2022-materials\
@@ -66,6 +77,12 @@ cd C:\Users\myname\Downloads\pythoncourse2022-materials\
 conda env create -f environment.yml
 ```
 This will take some time depending on your Internet speed (<15 minutes).
+
+If you installed mamba, you can use a faster option:
+```bash
+mamba env create -f environment.yml
+```
+
 If you get stuck try typing return or, failing this, creating the environment again.
 
 ## 4. Activate the environment
@@ -75,7 +92,7 @@ If your default shell is NOT bash, first type `bash`. Activate the relevant envi
 conda activate course2022
 ```
 ### Windows
-Still in the command line (Anaconda prompt), type:
+Still in the command line (Anaconda/mamba prompt), type:
 ```
 conda activate course2022
 ```
