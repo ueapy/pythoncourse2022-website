@@ -3,11 +3,12 @@
 Before the course, follow the [installation instructions](installation.md) *and make sure to run the tests*.
 
 ## Day 1 - Python basics
-Wednesday 27th April 2022, 9:00 - 16:40 BST
-Location: Blackdale BDS 0.21, UEA
+Wednesday 27th April 2022, 8:30 - 16:40 BST
+Location: Blackboard only
 
 | Topic                     | Type     | Time  | Duration |
 |---------------------------|----------|-------|----------|
+| Troubleshoot installation | Support  |  8:30 |  0:30    |
 | Welcome                   | Lecture  |  9:00 |  0:15    |
 | Introduction to Python    | Lecture  |  9:15 |  0:30    |
 | How to run Python scripts | Lecture  |  9:45 |  0:15    |
@@ -25,7 +26,7 @@ Location: Blackdale BDS 0.21, UEA
 
 ## Day 2 -  Functions, simple programs and arrays
 Thursday 28th April 2022, 9:00 - 16:45 BST
-Location: Blackdale BDS 0.14, UEA
+Location: Blackboard only
 
 | Topic                     | Type     | Time  | Duration |
 |---------------------------|----------|-------|----------|
@@ -43,7 +44,7 @@ Location: Blackdale BDS 0.14, UEA
 
 ## Day 3 -  Plotting and data analysis
 Friday 29th April 2022, 9:00 - 16:15 BST
-Location: Blackdale BDS 0.21, UEA
+Location: Blackboard only
 
 | Topic                     | Type     | Time  | Duration |
 |---------------------------|----------|-------|----------|

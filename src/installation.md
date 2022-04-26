@@ -1,6 +1,6 @@
 # Installation instructions
 
-For this course you will need to have Python installed on your laptop, inlcuding some extra packages. Follow the instructions below to set up your Python environment. Make sure you do this do this **before** the course, including running the test as below. There will be an **installation party** advertised in the invite email.
+For this course you will need to have Python installed on your laptop, inlcuding some extra packages. Follow the instructions below to set up your Python environment. Make sure you do this do this **before** the course, including running the test as below. There will be a troubleshooting session on the first day at 8:30 as advertised in the invite email.
 Feel free to contact [Jenny at Cefas](mailto:jennifer.graham@cefas.co.uk) or [Eliza at UEA](mailto:e.karlowska@uea.ac.uk) if you have any problems with the installation (but better do an internet search first!)
 Note: The course is designed in Python 3.8 but even if you have a different version installed, 3.8 will be installed when creating a conda environment in step 3 below.
 
@@ -109,7 +109,11 @@ Once the environment is activated, type
 ```
 jupyter notebook
 ```
-in the command line. This should open Jupyter Notebook in your browser. 
+in the command line. This should open Jupyter Notebook in your browser. We will also demonstrate using Jupyterlab, which is ery similar but offer a more flexible interface. For this type
+
+```
+jupyterlab
+```
 
 ## Still having trouble?
 If you are unable to install Anaconda Python on your PC, contact the [course organisers](index.md#registration-and-enquiries).

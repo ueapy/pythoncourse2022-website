@@ -13,9 +13,9 @@
 
 | Day | Time (BST) | Location | Topics covered |
 |-----|----------|-------|----------|
-| 27th April 2022 | 9:00 - 16:45 | Blackdale BDS 0.21, UEA | Python basics |
-| 28th April 2022 | 9:00 - 16:40 | Blackdale BDS 0.14, UEA | Functions, simple programs and arrays |
-| 29th April 2022 | 9:00 - 16:20 | Blackdale BDS 0.21, UEA |  Plotting and data analysis |
+| 27th April 2022 | 8:30 - 16:45 | Changed to online | Python basics |
+| 28th April 2022 | 9:00 - 16:40 | Changed to online | Functions, simple programs and arrays |
+| 29th April 2022 | 9:00 - 16:20 | Changed to online |  Plotting and data analysis |
 
 Full timetable available [here](programme.md).
 
