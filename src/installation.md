@@ -117,4 +117,4 @@ jupyterlab
 
 ## Still having trouble?
 If you are unable to install Anaconda Python on your PC, contact the [course organisers](index.md#registration-and-enquiries).
-Another option: launch the course in the cloud! [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2022-materials). This requires no installation but progress and modifications won't be saved.
+Another option: launch the course in the cloud! [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ueapy/pythoncourse2022-materials/main?urlpath=lab). This requires no installation but progress and modifications won't be saved.
